@@ -1,3 +1,15 @@
+# Ejercicio sesiones 25 26 react inter OpenBootcamp
+
+Utiliza useReducer y useContext para poder gestionar tareas en un proyecto de React. El proyecto debe permitir:
+
+- Crear tareas
+
+- Borrar tareas
+
+- Filtrar tareas
+
+Repo para uso de useReducer y useContext: https://gitlab.com/masajo/ob-react-usereducer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
